@@ -7,7 +7,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dep": "nest build",
-    "dev": "nest start --watch"
+    "dev": "nest start"
   },
   "dependencies": {
     "@nestjs/common": "^7.1.1",
