@@ -1,5 +1,5 @@
 # 2020-5-29
-## nest的简化版（基本和nest一样）
+## nest的简化版（基本和nest一样，删除了jest和eslint）
 nest的创建会多了很多多余的内容，所以简单的删减了。并且简单说明。
 
 ## controller
